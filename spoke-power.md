@@ -1,1 +1,4 @@
-# POWER
+# Power
+
+![](images/spoke-power.png)
+
